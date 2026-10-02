@@ -1,0 +1,19 @@
+{
+  "name": "smart-queue-management",
+  "version": "1.0.0",
+  "description": "Smart Queue Management System for Hospital Management - CSE DT&E Project",
+  "scripts": {
+    "server": "npm --prefix server run dev",
+    "client": "npm --prefix client run dev",
+    "install-all": "npm --prefix server install && npm --prefix client install",
+    "build-client": "npm --prefix client run build"
+  },
+  "keywords": [
+    "hospital-queue",
+    "design-thinking",
+    "mern",
+    "smart-queue"
+  ],
+  "author": "CSE DT&E Student Project",
+  "license": "ISC"
+}
